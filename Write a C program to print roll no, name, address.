@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <conio.h>
+
+void main()
+{
+    clrscr();
+    printf("Rollno : 11 \n");
+    printf("Name : Naruto \n");
+    printf("Address : Uchiha BCA & PGDCA College, Idar");
+    getch();
+}
+
+Output 
+Rollno : 11
+Name : Naruto
+Address : Uchiha BCA & PGDCA College, Idar
