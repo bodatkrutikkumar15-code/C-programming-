@@ -6,6 +6,10 @@ void main()
 clrscr();
 printf("Hello Krutik!");
 getch();
+
+
+output 
+Hello Krutik 
 _______________________________________________________
 #include <stdio.h>
 
